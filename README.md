@@ -228,7 +228,7 @@ I keep the **full transcript + how I captured it** in this folder (**`research/y
 | Date | Video | Transcript file | Status |
 |------|--------|-----------------|--------|
 | **2024-02-09** | [CSM Practice - Boost Customer Engagement With This 8-Step Process](https://youtu.be/wQ56OehMfC4) | [`2024-02-09-csm-practice-boost-customer-engagement.md`](2024-02-09-csm-practice-boost-customer-engagement.md) | Transcript body on file (YouTube ASR, 2026-04-21) |
-| **2023-10-27** | [CSM Practice - How to Elevate Your Customer Relationship Strategy](https://youtu.be/hEsCnVSlbME) | [`2023-10-27-csm-practice-customer-relationship-strategy.md`](2023-10-27-csm-practice-customer-relationship-strategy.md) | Transcript body still pending |
+| **2024-09-23** | [How To Create a B2B Content Strategy that ACTUALLY Converts In 2026. (Ben Brown)](https://www.youtube.com/watch?v=QLsrenrNDe0) | [`2024-09-23-ben-brown-b2b-content-strategy-converts.md`](2024-09-23-ben-brown-b2b-content-strategy-converts.md) | Transcript body on file (YouTube ASR, 2026-04-21) |
 
 **Reminder to myself:** when I pull transcripts (API or manual), I paste them into those files and I update this table if I add new videos—otherwise my index drifts.
 
