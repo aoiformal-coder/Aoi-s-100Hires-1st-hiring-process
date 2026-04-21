@@ -1,8 +1,8 @@
-# Aoi's 100Hires 1st Hiring Process
+# Aoi's 100Hires 1st and 2nd Hiring Process
 This a story of an ambitious boy who is on his way to improve his skills and career while still maintaining work-live balance with his family. He would like to jump to the ever evolving world of tech industry and make a change there.  
 # How I Made This README.md
 
-This is a quick write-up of my progress so far.
+It is so challenging to do something that you're not familiar with, which is exactly what I experience here. Most of the tutorials on Youtube are untouchable to me because of the number of the coding terms used. But yeah, it was worth it! I had to pull up an all-nighter because I was busy all day, but it'not important because this is how I finished this: First I tried to find 10 experts in customer success field but it was pretty difficult to find experts who are skillful and active on Youtube at the same time so I broadened my scope. Then, the next step took most of my time. API was really confusing and seems like I must have at least the basic programing skills to be able to pull it, so, I went on a manual way. I copied the scripts straight from youtube, "Scripts" option. I then finished the rest of the work combining AI and manual work. 
 
 ## 1) What tools did I install?
 
@@ -240,8 +240,7 @@ I keep the **detailed tables** under **`../linkedin-posts/`** (one file per auth
 
 ### David Sakamoto
 
-- **Unknown date** - [Lessons from GitLab: customer success operations at scale](https://www.linkedin.com/posts/dsakamoto_lessons-from-gitlab-implementing-customer-activity-6825972747911475200-ncTg)
-  - GitLab-era ops CS signal; I expand notes in [`../linkedin-posts/david-sakamoto.md`](../linkedin-posts/david-sakamoto.md).
+- **2026-04-22** - *(LinkedIn activity URL not captured)* — Amplifies **Jacco van der Kooij** on **Netflix pricing** (“floor protects ceiling”), **churn absorber** ad tier, **B2B** retention-tier parallel, **AI + pricing**; supersedes incorrect “most recent” GitLab/Gainsight seed; verbatim in [`../linkedin-posts/david-sakamoto.md`](../linkedin-posts/david-sakamoto.md).
 
 ### David Karp
 
@@ -250,8 +249,7 @@ I keep the **detailed tables** under **`../linkedin-posts/`** (one file per auth
 
 ### Muhammad Alqaq
 
-- **Unknown date** - [Most creative CS leaders (EverAfter mention)](https://www.linkedin.com/posts/mohammedalqaq_most-creative-cs-leaders-everafter-activity-7000728091572494336-Utzd)
-  - Host-side / personal brand signal; I expand in [`../linkedin-posts/muhammad-alqaq.md`](../linkedin-posts/muhammad-alqaq.md).
+- **2026-04-22** - [The Augmented CSM (Customer Success Middle East blog)](https://www.customer-success.me/blog/csme-blog-1/the-augmented-csm-28) — Mohammed’s LinkedIn promo (~**3mo**); Gen AI **empowering** CSMs (not replacing), Digital CSMs / human–AI partnership; shared [`lnkd.in/dsk64ksA`](https://lnkd.in/dsk64ksA); LinkedIn activity URL TBD in [`../linkedin-posts/muhammad-alqaq.md`](../linkedin-posts/muhammad-alqaq.md).
 
 ### Marija Skobe-Pilley
 
@@ -260,8 +258,7 @@ I keep the **detailed tables** under **`../linkedin-posts/`** (one file per auth
 
 ### Chitra Madhwacharyula
 
-- **Unknown date** - [Customer success, leadership, and Gen AI collaboration](https://www.linkedin.com/posts/chitramadhwacharyula_customersuccess-leadership-collaboration-activity-7247290133194883072-lKik)
-  - CS + Gen AI collaboration theme; I expand in [`../linkedin-posts/chitra-madhwacharyula.md`](../linkedin-posts/chitra-madhwacharyula.md).
+- **2026-04-22** - *(LinkedIn activity URL not captured)* — **Leadership / decision-making:** cost of **delayed** decisions vs bad calls; customer health-score lag, restructure timing, escalation → crisis; **directional clarity** over certainty; honest decisions with partial info; question + CS/leadership hashtags; supersedes an incorrect “most recent” seed; verbatim in [`../linkedin-posts/chitra-madhwacharyula.md`](../linkedin-posts/chitra-madhwacharyula.md).
 
 ### Rob Walling
 
@@ -273,8 +270,7 @@ I keep the **detailed tables** under **`../linkedin-posts/`** (one file per auth
 
 ### Ben Brown
 
-- **Unknown date** - [B2B Google Ads audits: common mistakes (video-first post)](https://www.linkedin.com/posts/benb2b_weve-audited-over-50m-in-b2b-google-ad-activity-7378442449196589056-ULmj)
-  - Performance methodology cross-link; I expand in [`../linkedin-posts/ben-brown.md`](../linkedin-posts/ben-brown.md).
+- **2026-04-22** - *(LinkedIn activity URL not captured)* — Building **LinkedIn Ad campaigns** via **Claude desktop** (short “quite like it” post; **LinkedIn for Marketing** UI line in capture); verbatim in [`../linkedin-posts/ben-brown.md`](../linkedin-posts/ben-brown.md).
 
 ### Kevin Chen
 
