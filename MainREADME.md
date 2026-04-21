@@ -241,52 +241,60 @@ I keep the **detailed tables** under **`../linkedin-posts/`** (one file per auth
 ### David Sakamoto
 
 - **Unknown date** - [Lessons from GitLab: customer success operations at scale](https://www.linkedin.com/posts/dsakamoto_lessons-from-gitlab-implementing-customer-activity-6825972747911475200-ncTg)
-  - GitLab-era ops CS signal; I expand notes in [`../linkedin-posts/david-sakamoto.md`](david-sakamoto.md).
+  - GitLab-era ops CS signal; I expand notes in [`../linkedin-posts/david-sakamoto.md`](../linkedin-posts/david-sakamoto.md).
 
 ### David Karp
 
 - **Unknown date** - [How to Make Customer Success a Revenue Driver (CS100 / DISQO context)](https://www.linkedin.com/posts/davidalankarp_cs100-leadership-customersuccess-activity-7381353872591609856-EIqG)
-  - CS as revenue engine; I expand in [`../linkedin-posts/david-karp.md`](david-karp.md).
+  - CS as revenue engine; I expand in [`../linkedin-posts/david-karp.md`](../linkedin-posts/david-karp.md).
 
 ### Muhammad Alqaq
 
 - **Unknown date** - [Most creative CS leaders (EverAfter mention)](https://www.linkedin.com/posts/mohammedalqaq_most-creative-cs-leaders-everafter-activity-7000728091572494336-Utzd)
-  - Host-side / personal brand signal; I expand in [`../linkedin-posts/muhammad-alqaq.md`](muhammad-alqaq.md).
+  - Host-side / personal brand signal; I expand in [`../linkedin-posts/muhammad-alqaq.md`](../linkedin-posts/muhammad-alqaq.md).
 
 ### Marija Skobe-Pilley
 
 - **2024-06-12** - [The Revenue CSM launch post](https://www.linkedin.com/posts/mspilley_customersuccess-revenue-therevenuecsm-activity-7207020477574168577-Uufn)
-  - Revenue-led CS education signal; I expand in [`../linkedin-posts/marija-skobe-pilley.md`](marija-skobe-pilley.md).
+  - Revenue-led CS education signal; I expand in [`../linkedin-posts/marija-skobe-pilley.md`](../linkedin-posts/marija-skobe-pilley.md).
 
 ### Chitra Madhwacharyula
 
 - **Unknown date** - [Customer success, leadership, and Gen AI collaboration](https://www.linkedin.com/posts/chitramadhwacharyula_customersuccess-leadership-collaboration-activity-7247290133194883072-lKik)
-  - CS + Gen AI collaboration theme; I expand in [`../linkedin-posts/chitra-madhwacharyula.md`](chitra-madhwacharyula.md).
+  - CS + Gen AI collaboration theme; I expand in [`../linkedin-posts/chitra-madhwacharyula.md`](../linkedin-posts/chitra-madhwacharyula.md).
 
 ### Rob Walling
 
+- **2026-04-22** - [Startups for the Rest of Us - Episode 829: AI is bad at Product…](https://www.startupsfortherestofus.com/episodes/episode-829-ai-is-bad-at-product-top-5-startup-success-factors-and-the-beastie-boys-a-rob-solo-adventure)
+  - Solo episode he promoted on LinkedIn (AI vs **Product**, Bill Gross for bootstrappers, UX story, Beastie Boys, Mercury sponsor); verbatim + context in [`../linkedin-posts/rob-walling.md`](../linkedin-posts/rob-walling.md).
+
 - **Unknown date** - [MicroConf “hallway track” / founder community post](https://www.linkedin.com/posts/robwalling_this-is-the-microconf-hallway-track-in-action-activity-7308128874880516096-mOg4)
-  - Event-led community + distribution angle; I expand in [`../linkedin-posts/rob-walling.md`](linkedin-posts/rob-walling.md).
+  - Event-led community + distribution angle; I expand in [`../linkedin-posts/rob-walling.md`](../linkedin-posts/rob-walling.md).
 
 ### Ben Brown
 
 - **Unknown date** - [B2B Google Ads audits: common mistakes (video-first post)](https://www.linkedin.com/posts/benb2b_weve-audited-over-50m-in-b2b-google-ad-activity-7378442449196589056-ULmj)
-  - Performance methodology cross-link; I expand in [`../linkedin-posts/ben-brown.md`](ben-brown.md).
+  - Performance methodology cross-link; I expand in [`../linkedin-posts/ben-brown.md`](../linkedin-posts/ben-brown.md).
 
 ### Kevin Chen
 
 - **Unknown date** - [The B2B Playbook — LinkedIn company page](https://www.linkedin.com/company/the-b2b-playbook)
-  - Official **Kevin + George** brand surface; I log **Kevin’s personal posts** in [`../linkedin-posts/kevin-chen.md`](kevin-chen.md).
+  - Official **Kevin + George** brand surface; I log **Kevin’s personal posts** in [`../linkedin-posts/kevin-chen.md`](../linkedin-posts/kevin-chen.md).
 
 ### Sam Dunning
 
+- **2026-04-22** - [29-minute SEO/AEO breakdown for Fibbler (YouTube)](https://youtu.be/fFyYnjJC_xQ)
+  - LinkedIn case-study post (12-month SEO/AEO “myth” vs ~1 month demos/sign-ups for Fibbler, buying-intent query map, pages for humans + AI, backlinks/lists); verbatim in [`../linkedin-posts/sam-dunning.md`](../linkedin-posts/sam-dunning.md). Shared from the post: [`lnkd.in/e5cjCeHY`](https://lnkd.in/e5cjCeHY).
+
 - **Unknown date** - [Why I started Breaking B2B (founder story / video-native post)](https://www.linkedin.com/posts/samdunning_i-started-breaking-b2b-because-im-selfish-activity-7431065112091836416-shYK)
-  - Founder narrative + organic growth angle; I expand in [`../linkedin-posts/sam-dunning.md`](sam-dunning.md).
+  - Founder narrative + organic growth angle; I expand in [`../linkedin-posts/sam-dunning.md`](../linkedin-posts/sam-dunning.md).
 
 ### Silvio Perez
 
+- **2026-04-22** - *(LinkedIn activity URL not captured)* — First **AdConversion** company-wide **leadership offsite** (Lisbon, 20+ teammates; global team IRL); verbatim in [`../linkedin-posts/silvio-perez.md`](../linkedin-posts/silvio-perez.md).
+
 - **Unknown date** - [AdConversion community growth (practitioner-led ads education)](https://www.linkedin.com/posts/silvio-perez_10000-b2b-marketers-didnt-join-adconversion-activity-7432776103007674369-K7Gp)
-  - Paid social + community flywheel signal; I expand in [`../linkedin-posts/silvio-perez.md`](silvio-perez.md).
+  - Paid social + community flywheel signal; I expand in [`../linkedin-posts/silvio-perez.md`](../linkedin-posts/silvio-perez.md).
 
 ## YouTube transcripts (index)
 
