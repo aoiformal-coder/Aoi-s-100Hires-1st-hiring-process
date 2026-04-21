@@ -201,6 +201,39 @@ I decided to focus my study on social media content that are easy to access for 
 - **No single publication date** - [Kevin Chen — author archive (The B2B Playbook)](https://theb2bplaybook.com/author/kevin)
   - Kevin-only long-form bylines on their site.
 
+### Sam Dunning
+
+- **How I’m labeling him:** **Founder @ Breaking B2B**—B2B SEO / organic pipeline for SaaS teams; he also hosts the **Breaking B2B** podcast. I re-check [his LinkedIn](https://www.linkedin.com/in/samdunning) before I cite a **current** title or agency positioning.
+- **What I watch for:** Public handles are usually **`samdunning`**—I don’t merge random “Sam Dunning” profiles without URL corroboration.
+- **Where I log his LinkedIn captures:** [`../linkedin-posts/sam-dunning.md`](../linkedin-posts/sam-dunning.md)
+
+- **No single publication date** - [Sam Dunning LinkedIn profile](https://www.linkedin.com/in/samdunning)
+  - My baseline for **B2B SEO, demand gen adjacent organic, and how he packages agency + podcast IP**.
+
+- **No single publication date** - [Breaking B2B (site)](https://www.breakingb2b.com/)
+  - Agency + podcast hub—good for **owned-media** context next to his social posts.
+
+- **No single publication date** - [Breaking B2B (Apple Podcasts)](https://podcasts.apple.com/us/podcast/breaking-b2b-b2b-marketing-demand-generation-podcast/id1496516404)
+  - I use this for **audio-first** discovery when I’m cross-walking **podcast ↔ YouTube** titles.
+
+### Silvio Perez
+
+- **How I’m labeling him:** **Founder @ AdConversion & Sami**—**AdConversion** is the B2B ads academy + agency; **Sami** is the automation product line he talks about publicly. I re-check [his LinkedIn](https://www.linkedin.com/in/silvio-perez) before I cite **current** scope wording.
+- **What I watch for:** URLs use **`silvio-perez`** (hyphenated slug)—I anchor paid-media claims to **his** profile + **AdConversion** owned pages, not homonyms.
+- **Where I log his LinkedIn captures:** [`../linkedin-posts/silvio-perez.md`](../linkedin-posts/silvio-perez.md)
+
+- **No single publication date** - [Silvio Perez LinkedIn profile](https://www.linkedin.com/in/silvio-perez)
+  - My baseline for **LinkedIn / Google / Reddit B2B ads** teaching loops and practitioner POV.
+
+- **No single publication date** - [AdConversion (home)](https://www.adconversion.com/)
+  - Academy + agency positioning—useful when I’m mapping **free courses / paid services**.
+
+- **No single publication date** - [Silvio Perez — instructor page (AdConversion)](https://www.adconversion.com/instructors/silvio-perez)
+  - Short official bio page I can cite when I need a **non-LinkedIn** primary.
+
+- **No single publication date** - [AdConversion on LinkedIn (company)](https://www.linkedin.com/company/adconversion)
+  - Brand + hiring / social proof surface; I still log **Silvio’s personal posts** in [`../linkedin-posts/silvio-perez.md`](../linkedin-posts/silvio-perez.md).
+
 ## LinkedIn posts (index)
 
 I keep the **detailed tables** under **`../linkedin-posts/`** (one file per author). The bullets below are just **quick seeds** so I don’t forget what I already cared about—I try to keep them aligned with those files.
@@ -245,6 +278,16 @@ I keep the **detailed tables** under **`../linkedin-posts/`** (one file per auth
 - **Unknown date** - [The B2B Playbook — LinkedIn company page](https://www.linkedin.com/company/the-b2b-playbook)
   - Official **Kevin + George** brand surface; I log **Kevin’s personal posts** in [`../linkedin-posts/kevin-chen.md`](../linkedin-posts/kevin-chen.md).
 
+### Sam Dunning
+
+- **Unknown date** - [Why I started Breaking B2B (founder story / video-native post)](https://www.linkedin.com/posts/samdunning_i-started-breaking-b2b-because-im-selfish-activity-7431065112091836416-shYK)
+  - Founder narrative + organic growth angle; I expand in [`../linkedin-posts/sam-dunning.md`](../linkedin-posts/sam-dunning.md).
+
+### Silvio Perez
+
+- **Unknown date** - [AdConversion community growth (practitioner-led ads education)](https://www.linkedin.com/posts/silvio-perez_10000-b2b-marketers-didnt-join-adconversion-activity-7432776103007674369-K7Gp)
+  - Paid social + community flywheel signal; I expand in [`../linkedin-posts/silvio-perez.md`](../linkedin-posts/silvio-perez.md).
+
 ## YouTube transcripts (index)
 
 <a id="youtube-transcripts-index"></a>
@@ -281,6 +324,8 @@ If it’s not a LinkedIn log and not a per-video transcript file, I’m stashing
 - **iTunes Search API (Rob Walling):** `https://itunes.apple.com/search?term=Rob+Walling&media=podcast&entity=podcastEpisode&limit=50`.
 - **iTunes Search API (Ben):** `https://itunes.apple.com/search?term=Ben+Brown+Session+Media&media=podcast&entity=podcastEpisode&limit=50`.
 - **iTunes Search API (Kevin Chen / The B2B Playbook):** `https://itunes.apple.com/search?term=Kevin+Chen+The+B2B+Playbook&media=podcast&entity=podcastEpisode&limit=50`.
+- **iTunes Search API (Sam Dunning / Breaking B2B):** `https://itunes.apple.com/search?term=Sam+Dunning+Breaking+B2B&media=podcast&entity=podcastEpisode&limit=50`.
+- **iTunes Search API (Silvio Perez / AdConversion):** `https://itunes.apple.com/search?term=Silvio+Perez+AdConversion&media=podcast&entity=podcastEpisode&limit=50`.
 
 ---
 
