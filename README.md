@@ -48,21 +48,12 @@ To help me improve my knowledge and skills on customer success, I did some resea
 
 I decided to focus my study on social media content that are easy to access for everyone. Furthermore, Social Media is the future of information since a lot of young people (if not kids) are relying heavily on them. 
 
-I also wrote a shorter map of the same idea in [`../README.md`](../README.md).
-
-## What I'm studying
-
-- **The lens I'm using:** **YouTube content strategy for B2B SaaS**—formats, distribution, thought leadership, CS/GTM stories on video (and the social surfaces around them).
-- **Who I'm tracking right now (in this order):** **David Sakamoto** (VP – Customer Success, GitLab Inc.), **David Karp** (Customer Success and Growth Executive, DISQO), **Muhammad Alqaq**, **Marija Skobe-Pilley** (VP of Customer Success), **Chitra Madhwacharyula** (Customer & Partner Success @ NVIDIA), **Rob Walling**, **Ben Brown**.
-- **Where I'm at:** I still need to **fill in transcript bodies and "latest LinkedIn" tables myself** (or via a Codex/Claude run I review)—this index doesn't magically populate those files.
-
 ## Expert Sources
 
 ### David Sakamoto
 
 - **How I’m labeling him:** **VP – Customer Success, GitLab Inc.** (a lot of public interviews still say “VP of Customer Success” / “Global VP of Customer Success.”)
 - **Note to myself:** Before I cite his **current** employer or title anywhere public, I re-check [his LinkedIn](https://www.linkedin.com/in/dsakamoto)—timelines drift after big role changes.
-- **Where I log his LinkedIn captures:** [`../linkedin-posts/david-sakamoto.md`](../linkedin-posts/david-sakamoto.md)
 
 - **2022-04-14** - [Zoomin Software podcast - Taking CX to the next level through a CS lens with David Sakamoto, GitLab](https://www.zoominsoftware.com/podcasts/david-sakamoto-vp-of-customer-success-at-gitlab)
   - I’m keeping this because it’s a **dated** page that explicitly titles him **VP of Customer Success, GitLab**—great for CS vs CX, metrics traps, services vs ops, and commercial mindset.
@@ -80,7 +71,6 @@ I also wrote a shorter map of the same idea in [`../README.md`](../README.md).
 
 - **How I’m labeling him:** **Customer Success and Growth Executive, DISQO** (DISQO’s own pages may still say **Chief Customer Officer** or **VP, Customer Success**—when I need a formal title, I pull from **their** announcements.)
 - **What I watch for:** Public spelling is **David Karp**, not “Karb”—I’m careful not to merge random homonyms.
-- **Where I log his LinkedIn captures:** [`../linkedin-posts/david-karp.md`](../linkedin-posts/david-karp.md)
 
 - **2024-01-11** - [DISQO newsroom - DISQO elevates David Karp to Chief Customer Officer](https://newsroom.disqo.com/disqo-elevates-david-karp-to-chief-customer-officer)
   - My go-to **official** story on his remit and how DISQO frames customer scale.
@@ -94,7 +84,6 @@ I also wrote a shorter map of the same idea in [`../README.md`](../README.md).
 ### Muhammad Alqaq
 
 - **What trips me up:** Podcast metadata often spells his first name **Mohammed** (Apple URLs, etc.). When I search, I try **both** spellings so I don’t miss episodes.
-- **Where I log his LinkedIn captures:** [`../linkedin-posts/muhammad-alqaq.md`](../linkedin-posts/muhammad-alqaq.md) (handles in URLs are often `mohammedalqaq`.)
 
 - **2025-04-09** - [Customer Success Talks - The Truth About Building Customer Success Communities](https://podcasts.apple.com/us/podcast/the-truth-about-building-customer-success-communities/id1705198011?i=1000702830458&uo=4)
   - I’m leaning on this for **community-led CS** and how he shows up as a public voice.
@@ -120,7 +109,6 @@ I also wrote a shorter map of the same idea in [`../README.md`](../README.md).
 ### Marija Skobe-Pilley
 
 - **How I’m labeling her:** **VP of Customer Success** (public branding I’ve seen; she’s also shown up as Head of CS, EMEA at ClickUp—I **re-verify** on LinkedIn before I cite anything formal.)
-- **Where I log her LinkedIn captures:** [`../linkedin-posts/marija-skobe-pilley.md`](../linkedin-posts/marija-skobe-pilley.md)
 
 - **2024-06-12** - [LinkedIn post - The Revenue CSM (waitlist launch)](https://www.linkedin.com/posts/mspilley_customersuccess-revenue-therevenuecsm-activity-7207020477574168577-Uufn)
   - I bookmarked this because it’s **her** social-native CS/revenue story, not a third-party writeup.
@@ -146,7 +134,6 @@ I also wrote a shorter map of the same idea in [`../README.md`](../README.md).
 ### Chitra Madhwacharyula
 
 - **How I’m labeling her:** **Customer & Partner Success @ NVIDIA** (that’s what I’m seeing on her public headline; she may also list operational titles like Director, Customer Success Operations—I **re-verify** wording before I publish anything with a formal job title.)
-- **Where I log her LinkedIn captures:** [`../linkedin-posts/chitra-madhwacharyula.md`](../linkedin-posts/chitra-madhwacharyula.md)
 
 - **2023-03-29** - [Scaling Customer Success: Building the Customer Success Center of Excellence (Amazon / Apress 1st ed.)](https://www.amazon.com/Scaling-Customer-Success-Building-Excellence/dp/1484291913)
   - I keep this book link when I’m thinking about **CS CoE**, metrics, and scaling operations.
@@ -163,7 +150,6 @@ I also wrote a shorter map of the same idea in [`../README.md`](../README.md).
 ### Rob Walling
 
 - **How I’m labeling him:** **Bootstrapped B2B SaaS founder ecosystem**—I’m following him for **MicroConf**, **TinySeed**, **Startups for the Rest of Us**, and how he packages **YouTube + conference + podcast** narratives for founders.
-- **Where I log his LinkedIn captures:** [`../linkedin-posts/rob-walling.md`](../linkedin-posts/rob-walling.md)
 
 - **No single publication date** - [Rob Walling LinkedIn profile](https://www.linkedin.com/in/robwalling)
   - My first stop for what he’s amplifying this week.
@@ -178,7 +164,6 @@ I also wrote a shorter map of the same idea in [`../README.md`](../README.md).
 
 - **How I’m labeling him:** **Performance B2B marketing** at **Session Media** (paid media, SEO, LinkedIn Ads, pipeline stories). I’m mirroring how he brands himself in public, not whatever legal title happens to be on a business card.
 - **What I watch for:** I only merge sources into **[Ben Brown @ Session Media](https://uk.linkedin.com/in/benb2b)** (`benb2b`)—there are a lot of unrelated Ben Browns out there.
-- **Where I log his LinkedIn captures:** [`../linkedin-posts/ben-brown.md`](../linkedin-posts/ben-brown.md)
 
 - **2025-03-24** - [Session Media - How To Build Your MSP Marketing Growth Engine For 2025](https://session-media.com/msp-marketing-strategy/)
   - I’m tracking this Session Media long-form for **multi-channel performance** examples.
