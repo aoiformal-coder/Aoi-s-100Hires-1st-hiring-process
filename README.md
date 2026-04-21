@@ -48,13 +48,21 @@ To help me improve my knowledge and skills on customer success, I did some resea
 
 I decided to focus my study on social media content that are easy to access for everyone. Furthermore, Social Media is the future of information since a lot of young people (if not kids) are relying heavily on them. 
 
+I also wrote a shorter map of the same idea in [`../README.md`](../README.md).
+
+## What I'm studying
+
+- **The lens I'm using:** **YouTube content strategy for B2B SaaS**—formats, distribution, thought leadership, CS/GTM stories on video (and the social surfaces around them).
+- **Who I'm tracking right now (in this order):** **David Sakamoto** (VP – Customer Success, GitLab Inc.), **David Karp** (Customer Success and Growth Executive, DISQO), **Muhammad Alqaq**, **Marija Skobe-Pilley** (VP of Customer Success), **Chitra Madhwacharyula** (Customer & Partner Success @ NVIDIA), **Rob Walling**, **Ben Brown**.
+- **Where I'm at:** I still need to **fill in transcript bodies and "latest LinkedIn" tables myself** (or via a Codex/Claude run I review)—this index doesn't magically populate those files.
+
 ## Expert Sources
 
 ### David Sakamoto
 
 - **How I’m labeling him:** **VP – Customer Success, GitLab Inc.** (a lot of public interviews still say “VP of Customer Success” / “Global VP of Customer Success.”)
 - **Note to myself:** Before I cite his **current** employer or title anywhere public, I re-check [his LinkedIn](https://www.linkedin.com/in/dsakamoto)—timelines drift after big role changes.
-- **Where I log his LinkedIn captures:** [`linkedin-posts/david-sakamoto.md`](linkedin-posts/david-sakamoto.md)
+- **Where I log his LinkedIn captures:** [`../linkedin-posts/david-sakamoto.md`](../linkedin-posts/david-sakamoto.md)
 
 - **2022-04-14** - [Zoomin Software podcast - Taking CX to the next level through a CS lens with David Sakamoto, GitLab](https://www.zoominsoftware.com/podcasts/david-sakamoto-vp-of-customer-success-at-gitlab)
   - I’m keeping this because it’s a **dated** page that explicitly titles him **VP of Customer Success, GitLab**—great for CS vs CX, metrics traps, services vs ops, and commercial mindset.
@@ -72,7 +80,7 @@ I decided to focus my study on social media content that are easy to access for 
 
 - **How I’m labeling him:** **Customer Success and Growth Executive, DISQO** (DISQO’s own pages may still say **Chief Customer Officer** or **VP, Customer Success**—when I need a formal title, I pull from **their** announcements.)
 - **What I watch for:** Public spelling is **David Karp**, not “Karb”—I’m careful not to merge random homonyms.
-- **Where I log his LinkedIn captures:** [`linkedin-posts/david-karp.md`](linkedin-posts/david-karp.md)
+- **Where I log his LinkedIn captures:** [`../linkedin-posts/david-karp.md`](../linkedin-posts/david-karp.md)
 
 - **2024-01-11** - [DISQO newsroom - DISQO elevates David Karp to Chief Customer Officer](https://newsroom.disqo.com/disqo-elevates-david-karp-to-chief-customer-officer)
   - My go-to **official** story on his remit and how DISQO frames customer scale.
@@ -86,7 +94,7 @@ I decided to focus my study on social media content that are easy to access for 
 ### Muhammad Alqaq
 
 - **What trips me up:** Podcast metadata often spells his first name **Mohammed** (Apple URLs, etc.). When I search, I try **both** spellings so I don’t miss episodes.
-- **Where I log his LinkedIn captures:** [`linkedin-posts/muhammad-alqaq.md`](linkedin-posts/muhammad-alqaq.md) (handles in URLs are often `mohammedalqaq`.)
+- **Where I log his LinkedIn captures:** [`../linkedin-posts/muhammad-alqaq.md`](../linkedin-posts/muhammad-alqaq.md) (handles in URLs are often `mohammedalqaq`.)
 
 - **2025-04-09** - [Customer Success Talks - The Truth About Building Customer Success Communities](https://podcasts.apple.com/us/podcast/the-truth-about-building-customer-success-communities/id1705198011?i=1000702830458&uo=4)
   - I’m leaning on this for **community-led CS** and how he shows up as a public voice.
@@ -112,7 +120,7 @@ I decided to focus my study on social media content that are easy to access for 
 ### Marija Skobe-Pilley
 
 - **How I’m labeling her:** **VP of Customer Success** (public branding I’ve seen; she’s also shown up as Head of CS, EMEA at ClickUp—I **re-verify** on LinkedIn before I cite anything formal.)
-- **Where I log her LinkedIn captures:** [`linkedin-posts/marija-skobe-pilley.md`](linkedin-posts/marija-skobe-pilley.md)
+- **Where I log her LinkedIn captures:** [`../linkedin-posts/marija-skobe-pilley.md`](../linkedin-posts/marija-skobe-pilley.md)
 
 - **2024-06-12** - [LinkedIn post - The Revenue CSM (waitlist launch)](https://www.linkedin.com/posts/mspilley_customersuccess-revenue-therevenuecsm-activity-7207020477574168577-Uufn)
   - I bookmarked this because it’s **her** social-native CS/revenue story, not a third-party writeup.
@@ -138,7 +146,7 @@ I decided to focus my study on social media content that are easy to access for 
 ### Chitra Madhwacharyula
 
 - **How I’m labeling her:** **Customer & Partner Success @ NVIDIA** (that’s what I’m seeing on her public headline; she may also list operational titles like Director, Customer Success Operations—I **re-verify** wording before I publish anything with a formal job title.)
-- **Where I log her LinkedIn captures:** [`linkedin-posts/chitra-madhwacharyula.md`](linkedin-posts/chitra-madhwacharyula.md)
+- **Where I log her LinkedIn captures:** [`../linkedin-posts/chitra-madhwacharyula.md`](../linkedin-posts/chitra-madhwacharyula.md)
 
 - **2023-03-29** - [Scaling Customer Success: Building the Customer Success Center of Excellence (Amazon / Apress 1st ed.)](https://www.amazon.com/Scaling-Customer-Success-Building-Excellence/dp/1484291913)
   - I keep this book link when I’m thinking about **CS CoE**, metrics, and scaling operations.
@@ -155,7 +163,7 @@ I decided to focus my study on social media content that are easy to access for 
 ### Rob Walling
 
 - **How I’m labeling him:** **Bootstrapped B2B SaaS founder ecosystem**—I’m following him for **MicroConf**, **TinySeed**, **Startups for the Rest of Us**, and how he packages **YouTube + conference + podcast** narratives for founders.
-- **Where I log his LinkedIn captures:** [`linkedin-posts/rob-walling.md`](linkedin-posts/rob-walling.md)
+- **Where I log his LinkedIn captures:** [`../linkedin-posts/rob-walling.md`](../linkedin-posts/rob-walling.md)
 
 - **No single publication date** - [Rob Walling LinkedIn profile](https://www.linkedin.com/in/robwalling)
   - My first stop for what he’s amplifying this week.
@@ -170,7 +178,7 @@ I decided to focus my study on social media content that are easy to access for 
 
 - **How I’m labeling him:** **Performance B2B marketing** at **Session Media** (paid media, SEO, LinkedIn Ads, pipeline stories). I’m mirroring how he brands himself in public, not whatever legal title happens to be on a business card.
 - **What I watch for:** I only merge sources into **[Ben Brown @ Session Media](https://uk.linkedin.com/in/benb2b)** (`benb2b`)—there are a lot of unrelated Ben Browns out there.
-- **Where I log his LinkedIn captures:** [`linkedin-posts/ben-brown.md`](linkedin-posts/ben-brown.md)
+- **Where I log his LinkedIn captures:** [`../linkedin-posts/ben-brown.md`](../linkedin-posts/ben-brown.md)
 
 - **2025-03-24** - [Session Media - How To Build Your MSP Marketing Growth Engine For 2025](https://session-media.com/msp-marketing-strategy/)
   - I’m tracking this Session Media long-form for **multi-channel performance** examples.
@@ -189,63 +197,78 @@ I decided to focus my study on social media content that are easy to access for 
 
 ## LinkedIn posts (index)
 
-I keep the **detailed tables** under **`research/linkedin-posts/`** (one file per author). The bullets below are just **quick seeds** so I don’t forget what I already cared about—I try to keep them aligned with those files.
+I keep the **detailed tables** under **`../linkedin-posts/`** (one file per author). The bullets below are just **quick seeds** so I don’t forget what I already cared about—I try to keep them aligned with those files.
 
 ### David Sakamoto
 
 - **Unknown date** - [Lessons from GitLab: customer success operations at scale](https://www.linkedin.com/posts/dsakamoto_lessons-from-gitlab-implementing-customer-activity-6825972747911475200-ncTg)
-  - GitLab-era ops CS signal; I expand notes in [`linkedin-posts/david-sakamoto.md`](linkedin-posts/david-sakamoto.md).
+  - GitLab-era ops CS signal; I expand notes in [`../linkedin-posts/david-sakamoto.md`](../linkedin-posts/david-sakamoto.md).
 
 ### David Karp
 
 - **Unknown date** - [How to Make Customer Success a Revenue Driver (CS100 / DISQO context)](https://www.linkedin.com/posts/davidalankarp_cs100-leadership-customersuccess-activity-7381353872591609856-EIqG)
-  - CS as revenue engine; I expand in [`linkedin-posts/david-karp.md`](linkedin-posts/david-karp.md).
+  - CS as revenue engine; I expand in [`../linkedin-posts/david-karp.md`](../linkedin-posts/david-karp.md).
 
 ### Muhammad Alqaq
 
 - **Unknown date** - [Most creative CS leaders (EverAfter mention)](https://www.linkedin.com/posts/mohammedalqaq_most-creative-cs-leaders-everafter-activity-7000728091572494336-Utzd)
-  - Host-side / personal brand signal; I expand in [`linkedin-posts/muhammad-alqaq.md`](linkedin-posts/muhammad-alqaq.md).
+  - Host-side / personal brand signal; I expand in [`../linkedin-posts/muhammad-alqaq.md`](../linkedin-posts/muhammad-alqaq.md).
 
 ### Marija Skobe-Pilley
 
 - **2024-06-12** - [The Revenue CSM launch post](https://www.linkedin.com/posts/mspilley_customersuccess-revenue-therevenuecsm-activity-7207020477574168577-Uufn)
-  - Revenue-led CS education signal; I expand in [`linkedin-posts/marija-skobe-pilley.md`](linkedin-posts/marija-skobe-pilley.md).
+  - Revenue-led CS education signal; I expand in [`../linkedin-posts/marija-skobe-pilley.md`](../linkedin-posts/marija-skobe-pilley.md).
 
 ### Chitra Madhwacharyula
 
 - **Unknown date** - [Customer success, leadership, and Gen AI collaboration](https://www.linkedin.com/posts/chitramadhwacharyula_customersuccess-leadership-collaboration-activity-7247290133194883072-lKik)
-  - CS + Gen AI collaboration theme; I expand in [`linkedin-posts/chitra-madhwacharyula.md`](linkedin-posts/chitra-madhwacharyula.md).
+  - CS + Gen AI collaboration theme; I expand in [`../linkedin-posts/chitra-madhwacharyula.md`](../linkedin-posts/chitra-madhwacharyula.md).
 
 ### Rob Walling
 
 - **Unknown date** - [MicroConf “hallway track” / founder community post](https://www.linkedin.com/posts/robwalling_this-is-the-microconf-hallway-track-in-action-activity-7308128874880516096-mOg4)
-  - Event-led community + distribution angle; I expand in [`linkedin-posts/rob-walling.md`](linkedin-posts/rob-walling.md).
+  - Event-led community + distribution angle; I expand in [`../linkedin-posts/rob-walling.md`](../linkedin-posts/rob-walling.md).
 
 ### Ben Brown
 
 - **Unknown date** - [B2B Google Ads audits: common mistakes (video-first post)](https://www.linkedin.com/posts/benb2b_weve-audited-over-50m-in-b2b-google-ad-activity-7378442449196589056-ULmj)
-  - Performance methodology cross-link; I expand in [`linkedin-posts/ben-brown.md`](linkedin-posts/ben-brown.md).
+  - Performance methodology cross-link; I expand in [`../linkedin-posts/ben-brown.md`](../linkedin-posts/ben-brown.md).
 
 ## YouTube transcripts (index)
 
-I keep the **full transcript + how I captured it** in **`research/youtube-transcripts/`** (still one file per video).
+<a id="youtube-transcripts-index"></a>
 
-| Date | Video | Transcript file |
-|------|--------|-----------------|
-| **2024-02-09** | [CSM Practice - Boost Customer Engagement With This 8-Step Process](https://youtu.be/wQ56OehMfC4) | [`youtube-transcripts/2024-02-09-csm-practice-boost-customer-engagement.md`](youtube-transcripts/2024-02-09-csm-practice-boost-customer-engagement.md) |
-| **2023-10-27** | [CSM Practice - How to Elevate Your Customer Relationship Strategy](https://youtu.be/hEsCnVSlbME) | [`youtube-transcripts/2023-10-27-csm-practice-customer-relationship-strategy.md`](youtube-transcripts/2023-10-27-csm-practice-customer-relationship-strategy.md) |
+I keep the **full transcript + how I captured it** in this folder (**`research/youtube-transcripts/`** in the repo; one file per video). Each row’s **Transcript file** points at the canonical markdown in this directory; that file’s **Index** section links back to [`sources.md`](../sources.md#youtube-transcripts-index).
+
+| Date | Video | Transcript file | Status |
+|------|--------|-----------------|--------|
+| **2024-02-09** | [CSM Practice - Boost Customer Engagement With This 8-Step Process](https://youtu.be/wQ56OehMfC4) | [`2024-02-09-csm-practice-boost-customer-engagement.md`](2024-02-09-csm-practice-boost-customer-engagement.md) | Transcript body on file (YouTube ASR, 2026-04-21) |
+| **2023-10-27** | [CSM Practice - How to Elevate Your Customer Relationship Strategy](https://youtu.be/hEsCnVSlbME) | [`2023-10-27-csm-practice-customer-relationship-strategy.md`](2023-10-27-csm-practice-customer-relationship-strategy.md) | Transcript body still pending |
 
 **Reminder to myself:** when I pull transcripts (API or manual), I paste them into those files and I update this table if I add new videos—otherwise my index drifts.
 
 ## Other supporting materials
 
-If it’s not a LinkedIn log and not a per-video transcript file, I’m stashing longer notes in **`research/other/notes-and-leads.md`**.
+If it’s not a LinkedIn log and not a per-video transcript file, I’m stashing longer notes in **`../other/notes-and-leads.md`**.
 
 - [CSM Practice - Customer Relationship Matrix landing page](https://csmpractice.com/customer-relationship-matrix-template)
   - I’m linking this because it pairs with the CSM Practice / Muhammad Alqaq thread I’m following.
 
 - [Lifetime Value podcast hub](https://digitalcustomersuccess.com/project/ltvpodcast/)
   - I use this hub when I’m hunting **more podcast → YouTube** crossovers in CS.
+
+## API / collection methods (what I actually type or wire up)
+
+- **YouTube Data API — discovery:** I use `search.list` with `q`, `type=video`, optional `channelId` when I’m trying to find fresh B2B SaaS / CS strategy videos.
+- **YouTube Data API — captions:** When I have OAuth working, I try `captions.list` / `captions.download`—I document what worked in the per-video transcript file.
+- **Supadata (or similar):** If I’m paying for a transcript API, I follow their docs and I sometimes park a huge raw JSON under `../other/` while keeping the readable transcript in `youtube-transcripts/`.
+- **iTunes Search API (Muhammad / Mohammed Alqaq):** `https://itunes.apple.com/search?term=Mohammed+Alqaq&media=podcast&entity=podcastEpisode&limit=50` (if it feels thin, I retry with `Muhammad+Alqaq`).
+- **iTunes Search API (David Karp):** `https://itunes.apple.com/search?term=David+Karp+DISQO&media=podcast&entity=podcastEpisode&limit=50`.
+- **iTunes Search API (David Sakamoto):** `https://itunes.apple.com/search?term=David+Sakamoto+GitLab&media=podcast&entity=podcastEpisode&limit=50`.
+- **iTunes Search API (Marija):** `https://itunes.apple.com/search?term=Marija+Skobe-Pilley&media=podcast&entity=podcastEpisode&limit=50`.
+- **iTunes Search API (Chitra):** `https://itunes.apple.com/search?term=Chitra+Madhwacharyula&media=podcast&entity=podcastEpisode&limit=50`.
+- **iTunes Search API (Rob Walling):** `https://itunes.apple.com/search?term=Rob+Walling&media=podcast&entity=podcastEpisode&limit=50`.
+- **iTunes Search API (Ben):** `https://itunes.apple.com/search?term=Ben+Brown+Session+Media&media=podcast&entity=podcastEpisode&limit=50`.
 
 ---
 
