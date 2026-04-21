@@ -71,12 +71,38 @@ I decided to focus my study on social media content that are easy to access for 
 - **No single publication date** - [Customer Success Middle East](https://customer-success.me)
   - Background context for public profile and hosting footprint.
 
-## LinkedIn Posts (by Author)
+### 2) Andrew Tatton
+
+- **Identity note:** This index uses **[Andrew J Tatton](https://ca.linkedin.com/in/andrewjtatton)** (Audiense, B2B SaaS content and audience intelligence). Other public figures share the same name (for example academic and UK IT-directory profiles); do not merge sources across individuals.
+
+- **2025-04-30** - [All Things Insights - From Insights to Impact: How TMRE @ Home 2025 Brought Research to Life](https://allthingsinsights.com/content/from-insights-to-impact-how-tmre-home-2025-brought-research-to-life/)
+  - Event recap citing **Andrew Tatton, Content Marketing Lead, Audiense** on AI and audience intelligence for streaming retention.
+
+- **2025-04-30** - [All Things Insights discussion - How AI and Audience Intelligence Can Help Streaming Platforms Explode Viewership](https://allthingsinsights.com/content/discussion/how-ai-and-audience-intelligence-can-help-streaming-platforms-explode-viewership/)
+  - Session-level page linked from the TMRE @ Home 2025 day-one coverage; confirm whether an on-demand recording is attached on that URL.
+
+- **2024-04-25** - [Audiense blog - Becoming a strategic hero: expert insights on audience intelligence best practices and challenges](https://resources.audiense.com/en/blog/expert-insights-on-audience-intelligence-best-practices-for-agencies)
+  - Industry roundup with attributed quotes from **Andrew Tatton** (Major Mojo Marketing / agency practitioner context).
+
+- **No single publication date** - [Andrew Tatton LinkedIn profile](https://ca.linkedin.com/in/andrewjtatton)
+  - Baseline public profile for Audiense content leadership and B2B SaaS positioning.
+
+- **No single publication date** - [Audiense resources - From insights to impact: How to turn audience data into actionable campaign strategies (webinar)](https://resources.audiense.com/from-insights-to-impact-how-to-turn-audience-data-into-actionable-campaign-strategies?hsLang=en)
+  - Audiense-hosted session listing **Andrew Tatton** as moderator; useful for owned-media footprint.
+
+- **No single publication date** - [Audiense resources - How to use data to tell a story (webinar)](https://resources.audiense.com/webinar-how-to-use-data-to-tell-a-story-data-vizualization-storytelling?hsLang=en)
+  - Audiense-hosted session listing **Andrew Tatton** as moderator; data storytelling and audience intelligence angle.
+
+## LinkedIn Posts (By Author)
 
 ### Mohammed Alqaq
 
 - **Unknown date** - [Most creative CS leaders (EverAfter mention)](https://www.linkedin.com/posts/mohammedalqaq_most-creative-cs-leaders-everafter-activity-7000728091572494336-Utzd)
   - Evidence of expert's direct social media presence and customer-success positioning.
+
+### Andrew Tatton
+
+- **No entries curated yet** - Use [Andrew Tatton LinkedIn profile](https://ca.linkedin.com/in/andrewjtatton) and third-party event recap links under Expert Sources for baseline social footprint.
 
 ## YouTube Transcripts (by Video)
 
@@ -88,6 +114,12 @@ I decided to focus my study on social media content that are easy to access for 
   - Transcript file: `research/youtube-transcripts/2023-10-27-csm-practice-customer-relationship-strategy.md`
   - Status: transcript not yet captured.
 
+- **Unknown publication date** - [Audiense webinar - From insights to impact (Wistia embed on Audiense resources)](https://resources.audiense.com/from-insights-to-impact-how-to-turn-audience-data-into-actionable-campaign-strategies?hsLang=en)
+  - Hosted video (Wistia via Audiense); moderator **Andrew Tatton**; transcript file in this repo not yet created.
+
+- **Unknown publication date** - [Audiense webinar - How to use data to tell a story (Wistia embed on Audiense resources)](https://resources.audiense.com/webinar-how-to-use-data-to-tell-a-story-data-vizualization-storytelling?hsLang=en)
+  - Hosted video (Wistia via Audiense); moderator **Andrew Tatton**; transcript file in this repo not yet created.
+
 ## Other Supporting Materials
 
 - [CSM Practice - Customer Relationship Matrix landing page](https://csmpractice.com/customer-relationship-matrix-template)
@@ -95,16 +127,14 @@ I decided to focus my study on social media content that are easy to access for 
 
 - [Lifetime Value podcast hub](https://digitalcustomersuccess.com/project/ltvpodcast/)
   - Discovery lead for additional appearances and related content.
+ 
+- [Audiense on-demand resources hub](https://resources.audiense.com/on-demand)
+  - Discovery surface for additional webinars and sessions hosted or moderated by Audiense content leaders.
 
 ## API / Discovery Notes
 
 - YouTube Data API: `search.list` with `q`, `type=video`, and optional `channelId`.
 - iTunes Search API: `https://itunes.apple.com/search?term=Mohammed+Alqaq&media=podcast&entity=podcastEpisode&limit=50`.
-
-## Excluded (Name Collision)
-
-- [Career talks: Meet Mohammad Alqaq (artist path)](https://www.linkedin.com/pulse/career-talks-meet-mohammad-alqaq-artist-who-started-first-zaghmout-fmx4f)
-  - Different individual; excluded from this repository dataset.
 
 ---
 
