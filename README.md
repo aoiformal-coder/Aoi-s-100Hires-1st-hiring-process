@@ -180,6 +180,27 @@ I decided to focus my study on social media content that are easy to access for 
 - **No single publication date** - [Ben Brown (B2B) - personal links hub](https://benb2b.com/)
   - I bookmark this for templates/resources he references from social.
 
+### Kevin Chen
+
+- **How I’m labeling him:** **GTM strategy | B2B marketing**; **Co-founder / co-host, [The B2B Playbook](https://theb2bplaybook.com/)** (with George Coudounaris). His public headline is often **“Kevin Chen | GTM Strategy | B2B Marketing | Co-Host of The B2B Playbook Podcast”**—I still re-check LinkedIn before I cite a **current** employer or title.
+- **What I watch for:** I anchor on **[his LinkedIn](https://au.linkedin.com/in/kev-c)** (`kev-c`) plus **[The B2B Playbook on YouTube](https://www.youtube.com/@theb2bplaybook)** (`@theb2bplaybook`) so I don’t merge unrelated “Kevin Chen” profiles.
+- **Where I log his LinkedIn captures:** [`../linkedin-posts/kevin-chen.md`](../linkedin-posts/kevin-chen.md)
+
+- **No single publication date** - [Kevin Chen | GTM Strategy | B2B Marketing (LinkedIn)](https://au.linkedin.com/in/kev-c)
+  - My baseline for **demand gen, paid media, and the “5 BEs”** story he tells with George.
+
+- **No single publication date** - [The B2B Playbook on YouTube](https://www.youtube.com/@theb2bplaybook)
+  - Weekly **video** surface for the same IP as the podcast—useful when I’m studying **GTM + B2B marketing on YouTube**.
+
+- **No single publication date** - [The B2B Playbook (site / blog)](https://theb2bplaybook.com/)
+  - Articles, newsletter, and framework context alongside the feed.
+
+- **No single publication date** - [The B2B Playbook (Apple Podcasts)](https://podcasts.apple.com/us/podcast/the-b2b-playbook/id1579809553)
+  - I use this for **audio-first** discovery when I’m cross-walking **podcast ↔ YouTube** titles.
+
+- **No single publication date** - [Kevin Chen — author archive (The B2B Playbook)](https://theb2bplaybook.com/author/kevin)
+  - Kevin-only long-form bylines on their site.
+
 ## LinkedIn posts (index)
 
 I keep the **detailed tables** under **`../linkedin-posts/`** (one file per author). The bullets below are just **quick seeds** so I don’t forget what I already cared about—I try to keep them aligned with those files.
@@ -219,6 +240,11 @@ I keep the **detailed tables** under **`../linkedin-posts/`** (one file per auth
 - **Unknown date** - [B2B Google Ads audits: common mistakes (video-first post)](https://www.linkedin.com/posts/benb2b_weve-audited-over-50m-in-b2b-google-ad-activity-7378442449196589056-ULmj)
   - Performance methodology cross-link; I expand in [`../linkedin-posts/ben-brown.md`](../linkedin-posts/ben-brown.md).
 
+### Kevin Chen
+
+- **Unknown date** - [The B2B Playbook — LinkedIn company page](https://www.linkedin.com/company/the-b2b-playbook)
+  - Official **Kevin + George** brand surface; I log **Kevin’s personal posts** in [`../linkedin-posts/kevin-chen.md`](../linkedin-posts/kevin-chen.md).
+
 ## YouTube transcripts (index)
 
 <a id="youtube-transcripts-index"></a>
@@ -254,6 +280,7 @@ If it’s not a LinkedIn log and not a per-video transcript file, I’m stashing
 - **iTunes Search API (Chitra):** `https://itunes.apple.com/search?term=Chitra+Madhwacharyula&media=podcast&entity=podcastEpisode&limit=50`.
 - **iTunes Search API (Rob Walling):** `https://itunes.apple.com/search?term=Rob+Walling&media=podcast&entity=podcastEpisode&limit=50`.
 - **iTunes Search API (Ben):** `https://itunes.apple.com/search?term=Ben+Brown+Session+Media&media=podcast&entity=podcastEpisode&limit=50`.
+- **iTunes Search API (Kevin Chen / The B2B Playbook):** `https://itunes.apple.com/search?term=Kevin+Chen+The+B2B+Playbook&media=podcast&entity=podcastEpisode&limit=50`.
 
 ---
 
