@@ -48,7 +48,43 @@ To help me improve my knowledge and skills on customer success, I did some resea
 
 I decided to focus my study on social media content that are easy to access for everyone. Furthermore, Social Media is the future of information since a lot of young people (if not kids) are relying heavily on them. 
 
-## 1) Mohammed Alqaq
+### David Sakamoto
+
+- **Index label:** **VP – Customer Success, GitLab Inc.** (GitLab-era public interviews and podcast pages commonly use “VP of Customer Success” / “Global VP of Customer Success” wording.)
+- **Re-verify:** Before citing **current** employer or title externally, confirm against [David Sakamoto LinkedIn profile](https://www.linkedin.com/in/dsakamoto) (public career timelines may show roles after GitLab).
+- **LinkedIn capture file:** [`linkedin-posts/david-sakamoto.md`](linkedin-posts/david-sakamoto.md)
+
+- **2022-04-14** - [Zoomin Software podcast - Taking CX to the next level through a CS lens with David Sakamoto, GitLab](https://www.zoominsoftware.com/podcasts/david-sakamoto-vp-of-customer-success-at-gitlab)
+  - Dated interview page listing **VP of Customer Success, GitLab**; CS vs CX framing, metrics pitfalls, services/operations intersection, and commercial mindset.
+
+- **2025-04-01** - [Business Wire - David Sakamoto joins Veza as Senior Vice President of Global Customer Success](https://www.businesswire.com/news/home/20250401260066/en/David-Sakamoto-Joins-Veza-as-Senior-Vice-President-of-Global-Customer-Success-to-Help-Customers-Modernize-Identity-Security-Across-the-Enterprise)
+  - Post-GitLab leadership announcement; useful for timeline context (not proof of ongoing GitLab employment).
+
+- **No single publication date** - [David Sakamoto LinkedIn profile](https://www.linkedin.com/in/dsakamoto)
+  - Baseline public profile for career timeline and executive customer-success positioning.
+
+- **No single publication date** - [David Sakamoto GitLab.com member profile](https://gitlab.com/dsakamoto)
+  - GitLab-era public profile artifact; fields may lag—treat as corroborating context for GitLab tenure, not as a live employment source.
+
+### David Karp
+
+- **Index label:** **Customer Success and Growth Executive, DISQO** (DISQO-owned announcements may use formal titles like **Chief Customer Officer** or **VP, Customer Success**—prefer DISQO sources for legal/exact-title citations.)
+- **Identity note:** Public sources spell the name **David Karp** (not “Karb”). Do not merge sources across similarly spelled unrelated profiles.
+- **LinkedIn capture file:** [`linkedin-posts/david-karp.md`](linkedin-posts/david-karp.md)
+
+- **2024-01-11** - [DISQO newsroom - DISQO elevates David Karp to Chief Customer Officer](https://newsroom.disqo.com/disqo-elevates-david-karp-to-chief-customer-officer)
+  - Official promotion narrative; customer-scale and platform context.
+
+- **2021-09-15** - [DISQO newsroom - David Karp joins DISQO as Vice President of Customer Success](https://newsroom.disqo.com/news/disqo-appoints-david-karp-as-vice-president-of-customer-success)
+  - Hire announcement; background (Numerator, Mintel, LRN, IBM) and VP CS scope at DISQO.
+
+- **No single publication date** - [David Karp LinkedIn profile](https://www.linkedin.com/in/davidalankarp)
+  - Baseline public profile for DISQO customer leadership and customer-success thought leadership.
+
+### Muhammad Alqaq
+
+- **Identity note:** Podcast directories and guest metadata frequently spell the first name **Mohammed** (for example Apple Podcasts episode URLs). When searching broadly, try **both** “Muhammad” and “Mohammed” variants to avoid missing appearances.
+- **LinkedIn capture file:** [`linkedin-posts/muhammad-alqaq.md`](linkedin-posts/muhammad-alqaq.md) (public handle in URLs is often `mohammedalqaq`.)
 
 - **2025-04-09** - [Customer Success Talks - The Truth About Building Customer Success Communities](https://podcasts.apple.com/us/podcast/the-truth-about-building-customer-success-communities/id1705198011?i=1000702830458&uo=4)
   - Strong source for community-led customer success strategy and public thought leadership.
@@ -71,74 +107,45 @@ I decided to focus my study on social media content that are easy to access for 
 - **No single publication date** - [Customer Success Middle East](https://customer-success.me)
   - Background context for public profile and hosting footprint.
 
-### 2) Andrew Tatton
+## LinkedIn posts (index)
 
-- **Identity note:** This index uses **[Andrew J Tatton](https://ca.linkedin.com/in/andrewjtatton)** (Audiense, B2B SaaS content and audience intelligence). Other public figures share the same name (for example academic and UK IT-directory profiles); do not merge sources across individuals.
+Detailed rows and “latest posts” tables live under **`research/linkedin-posts/`** (one file per author). Seeds below stay in sync with those files.
 
-- **2025-04-30** - [All Things Insights - From Insights to Impact: How TMRE @ Home 2025 Brought Research to Life](https://allthingsinsights.com/content/from-insights-to-impact-how-tmre-home-2025-brought-research-to-life/)
-  - Event recap citing **Andrew Tatton, Content Marketing Lead, Audiense** on AI and audience intelligence for streaming retention.
+### David Sakamoto
 
-- **2025-04-30** - [All Things Insights discussion - How AI and Audience Intelligence Can Help Streaming Platforms Explode Viewership](https://allthingsinsights.com/content/discussion/how-ai-and-audience-intelligence-can-help-streaming-platforms-explode-viewership/)
-  - Session-level page linked from the TMRE @ Home 2025 day-one coverage; confirm whether an on-demand recording is attached on that URL.
+- **Unknown date** - [Lessons from GitLab: customer success operations at scale](https://www.linkedin.com/posts/dsakamoto_lessons-from-gitlab-implementing-customer-activity-6825972747911475200-ncTg)
+  - GitLab-era operational CS signal; expand in [`linkedin-posts/david-sakamoto.md`](linkedin-posts/david-sakamoto.md).
 
-- **2024-04-25** - [Audiense blog - Becoming a strategic hero: expert insights on audience intelligence best practices and challenges](https://resources.audiense.com/en/blog/expert-insights-on-audience-intelligence-best-practices-for-agencies)
-  - Industry roundup with attributed quotes from **Andrew Tatton** (Major Mojo Marketing / agency practitioner context).
+### David Karp
 
-- **No single publication date** - [Andrew Tatton LinkedIn profile](https://ca.linkedin.com/in/andrewjtatton)
-  - Baseline public profile for Audiense content leadership and B2B SaaS positioning.
+- **Unknown date** - [How to Make Customer Success a Revenue Driver (CS100 / DISQO context)](https://www.linkedin.com/posts/davidalankarp_cs100-leadership-customersuccess-activity-7381353872591609856-EIqG)
+  - CS as revenue engine; expand in [`linkedin-posts/david-karp.md`](linkedin-posts/david-karp.md).
 
-- **No single publication date** - [Audiense resources - From insights to impact: How to turn audience data into actionable campaign strategies (webinar)](https://resources.audiense.com/from-insights-to-impact-how-to-turn-audience-data-into-actionable-campaign-strategies?hsLang=en)
-  - Audiense-hosted session listing **Andrew Tatton** as moderator; useful for owned-media footprint.
-
-- **No single publication date** - [Audiense resources - How to use data to tell a story (webinar)](https://resources.audiense.com/webinar-how-to-use-data-to-tell-a-story-data-vizualization-storytelling?hsLang=en)
-  - Audiense-hosted session listing **Andrew Tatton** as moderator; data storytelling and audience intelligence angle.
-
-## LinkedIn Posts (By Author)
-
-### Mohammed Alqaq
+### Muhammad Alqaq
 
 - **Unknown date** - [Most creative CS leaders (EverAfter mention)](https://www.linkedin.com/posts/mohammedalqaq_most-creative-cs-leaders-everafter-activity-7000728091572494336-Utzd)
-  - Evidence of expert's direct social media presence and customer-success positioning.
+  - Host-side / personal brand signal; expand in [`linkedin-posts/muhammad-alqaq.md`](linkedin-posts/muhammad-alqaq.md).
 
-### Andrew Tatton
+## YouTube transcripts (index)
 
-- **No entries curated yet** - Use [Andrew Tatton LinkedIn profile](https://ca.linkedin.com/in/andrewjtatton) and third-party event recap links under Expert Sources for baseline social footprint.
+Full transcript text and collection metadata live in **`research/youtube-transcripts/`** (one file per video).
 
-## YouTube Transcripts (by Video)
+| Date | Video | Transcript file |
+|------|--------|-----------------|
+| **2024-02-09** | [CSM Practice - Boost Customer Engagement With This 8-Step Process](https://youtu.be/wQ56OehMfC4) | [`youtube-transcripts/2024-02-09-csm-practice-boost-customer-engagement.md`](youtube-transcripts/2024-02-09-csm-practice-boost-customer-engagement.md) |
+| **2023-10-27** | [CSM Practice - How to Elevate Your Customer Relationship Strategy](https://youtu.be/hEsCnVSlbME) | [`youtube-transcripts/2023-10-27-csm-practice-customer-relationship-strategy.md`](youtube-transcripts/2023-10-27-csm-practice-customer-relationship-strategy.md) |
 
-- **2024-02-09** - [CSM Practice - Boost Customer Engagement With This 8-Step Process](https://youtu.be/wQ56OehMfC4)
-  - Transcript file: `research/youtube-transcripts/2024-02-09-csm-practice-boost-customer-engagement.md`
-  - Status: transcript not yet captured.
+**Status:** paste API- or manually fetched transcript bodies into those files; keep `sources.md` dates/URLs accurate when you add videos.
 
-- **2023-10-27** - [CSM Practice - How to Elevate Your Customer Relationship Strategy](https://youtu.be/hEsCnVSlbME)
-  - Transcript file: `research/youtube-transcripts/2023-10-27-csm-practice-customer-relationship-strategy.md`
-  - Status: transcript not yet captured.
+## Other supporting materials
 
-- **Unknown publication date** - [Audiense webinar - From insights to impact (Wistia embed on Audiense resources)](https://resources.audiense.com/from-insights-to-impact-how-to-turn-audience-data-into-actionable-campaign-strategies?hsLang=en)
-  - Hosted video (Wistia via Audiense); moderator **Andrew Tatton**; transcript file in this repo not yet created.
-
-- **Unknown publication date** - [Audiense webinar - How to use data to tell a story (Wistia embed on Audiense resources)](https://resources.audiense.com/webinar-how-to-use-data-to-tell-a-story-data-vizualization-storytelling?hsLang=en)
-  - Hosted video (Wistia via Audiense); moderator **Andrew Tatton**; transcript file in this repo not yet created.
-
-## Other Supporting Materials
+Longer notes, leads, and non–LinkedIn / non–YouTube artifacts: **`research/other/notes-and-leads.md`**.
 
 - [CSM Practice - Customer Relationship Matrix landing page](https://csmpractice.com/customer-relationship-matrix-template)
-  - Supplementary reference connected to CSM Practice content.
+  - Supplementary reference connected to CSM Practice episodes featuring Muhammad Alqaq.
 
 - [Lifetime Value podcast hub](https://digitalcustomersuccess.com/project/ltvpodcast/)
-  - Discovery lead for additional appearances and related content.
- 
-- [Audiense on-demand resources hub](https://resources.audiense.com/on-demand)
-  - Discovery surface for additional webinars and sessions hosted or moderated by Audiense content leaders.
-
-## API / Discovery Notes
-
-- YouTube Data API: `search.list` with `q`, `type=video`, and optional `channelId`.
-- iTunes Search API: `https://itunes.apple.com/search?term=Mohammed+Alqaq&media=podcast&entity=podcastEpisode&limit=50`.
-
----
-
-*Last updated: 2026-04-21*
+  - Discovery lead for additional podcast appearances related to customer success.
 
 #### Thank you
 I hope all my answers are interesting for you to read, and meet the requirements to proceed to the next step. Thank you for taking the time to review my progress. I am excited to keep learning and complete the remaining parts soon. 
